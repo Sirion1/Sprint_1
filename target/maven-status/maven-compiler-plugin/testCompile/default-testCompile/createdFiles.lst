@@ -1,0 +1,4 @@
+Pages\MainPage.class
+Pages\OrderPage.class
+Tests\AreAnswersForFaqSectionCorrect.class
+Tests\ScooterOrderTest.class
